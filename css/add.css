@@ -1,0 +1,90 @@
+.fb-findus {
+width: 400px;
+text-align: center;
+}
+
+.activity ul {
+	list-style: none;
+}
+
+.black-text {
+	display: inline-block;
+	text-align: center;
+}
+
+h4 {
+	margin-bottom: 15px;
+}
+
+p {
+	margin-bottom: 15px;
+}
+
+.intro {
+	margin-bottom: 40px;
+}
+
+h4 {
+	font-weight: bold;
+
+}
+
+img {
+	margin-bottom: 40px;
+}
+
+.service-box {
+	margin-top: 40px;
+}
+
+input, textarea {
+	margin-top: 10px;
+	margin-bottom: 30px;
+	padding: 20px;
+
+}
+
+input:not([type="radio"]), textarea {
+	width: 400px;
+}
+
+.footer {
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 30px;
+	background-color: #3498db;
+
+}
+
+.fb {
+	margin-top: 40px;
+}
+
+.contact-form {
+	margin-top: 40px;
+
+}
+
+.condition-primary {
+	background-color: #3498db
+
+}
+
+#condition {
+	background-color: #3498db;
+}
+
+#condition h4 {
+	color: #fff;
+}
+
+#condition h2 {
+	color: #fff;
+}
+
+
+.small-font {
+	font-size: 14px;
+}
+
