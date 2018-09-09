@@ -1,8 +1,3 @@
-.fb-findus {
-width: 400px;
-text-align: center;
-}
-
 .activity ul {
 	list-style: none;
 }
@@ -92,4 +87,18 @@ form {
 	width: 100%;
 	max-width: 400px;
 	margin: 0 auto;
+}
+
+label {
+	margin-bottom: 30px;
+}
+
+.contact-submit {
+	background-color: #dee7ec;
+	color: #889eab;
+	border-style: none;
+}
+
+input:not(.contact-submit) {
+	height: 10px;
 }
