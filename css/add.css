@@ -103,3 +103,6 @@ input:not(.contact-submit) {
 }
 
 /* シェアボタン */
+.sns-share {
+	margin-top: 30px
+}
